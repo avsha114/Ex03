@@ -20,5 +20,5 @@ int main()
             printf("%d", *(arr + i));
     }
 
-    return -1;
+    return 0;
 }

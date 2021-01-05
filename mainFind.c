@@ -17,4 +17,5 @@ int main()
     {
         print_similar_words(searchWord);
     }
+    return 0;
 }
